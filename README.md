@@ -25,7 +25,7 @@ This Power BI dashboard analyzes global data and tech job market dynamics, salar
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 - `Github_Dashboard.pbix`: Dynamic Power BI Report file containing data model and visuals.
 - `dashboard_preview.png`: High-resolution dashboard screenshot.
 - `README.md`: Project documentation and executive summary.
